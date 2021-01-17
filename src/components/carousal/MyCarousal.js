@@ -1,9 +1,9 @@
 import React from 'react';
 //Component
 import Carousal from "react-bootstrap/Carousel";
-import slide1 from '../../assets/pexels-jessica-lewis-593322.jpg';
-import slide2 from '../../assets/pexels-pixabay-270360.jpg';
-import slide3 from '../../assets/pexels-toni-cuenca-585752.jpg';
+import slide1 from '../../assets/carousal/slide1.webp';
+import slide2 from '../../assets/carousal/slide2.webp';
+import slide3 from '../../assets/carousal/slide3.webp';
 import Scrolldown from '../scrolldown/Scrorlldown';
 // Style Css
 import './carousal.style.css';

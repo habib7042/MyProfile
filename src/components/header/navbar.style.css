@@ -3,9 +3,14 @@
     width: 150px;
 }
 .nav-theme {
-    background: #141425;
-    color: beige;
+    background: #05396B;
+    color: white;
     font-size: 20px;
+}
+
+.mr-auto{
+    color:white;
+    text-transform: uppercase;
 }
 .animate-navbar {
     box-shadow: 1px 1px 1px #222;
